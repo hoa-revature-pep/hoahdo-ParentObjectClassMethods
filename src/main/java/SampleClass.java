@@ -66,7 +66,7 @@ public class SampleClass {
     }
 
     //    implement a custom .toString(){} method here.
-    public String toString(){
+    public String toString() {
         String result = this.a + " " + this.b;
         return result;
     }
